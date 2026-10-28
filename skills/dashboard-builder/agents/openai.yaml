@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dashboard Builder"
+  short_description: "Build dashboards with onboarding, setup, and checks"
+  default_prompt: "Use $dashboard-builder to onboard this project, set up what is missing, and build a dashboard from my requirements and data."
