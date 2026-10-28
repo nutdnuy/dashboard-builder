@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1120" viewBox="0 0 1000 1120" role="img" aria-labelledby="flow-onboarding-title flow-onboarding-desc">
+<title id="flow-onboarding-title">Dashboard onboarding and setup</title>
+<desc id="flow-onboarding-desc">สำรวจโจทย์และโปรเจกต์ เตรียมเครื่องมือ ตรวจ starter แล้วจบที่ setup หรือเดินหน้าสร้าง Dashboard ตามขอบเขต</desc>
+<rect width="1000" height="1120" fill="#FAFAF7"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs>
+<text data-max-width="920" x="40" y="46" font-size="18" fill="#1B3C5C" text-anchor="start" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="40" dy="0">DASHBOARD BUILDER</tspan>
+</text>
+<rect x="40" y="66" width="52" height="4" fill="#F47920" stroke="#F47920" stroke-width="2"/>
+<text data-max-width="920" x="40" y="124" font-size="36" fill="#1B3C5C" text-anchor="start" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="40" dy="0">เริ่มต้นด้วย onboarding และ setup</tspan>
+</text>
+<text data-max-width="920" x="40" y="167" font-size="23" fill="#5B7A98" text-anchor="start" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="40" dy="0">Agent สำรวจสิ่งที่มี แล้วถามเฉพาะข้อมูลสำคัญที่ยังขาด</tspan>
+</text>
+<polyline points="500.0,324.0 500.0,352.0" fill="none" stroke="#5B7A98" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="500.0,464.0 500.0,492.0" fill="none" stroke="#5B7A98" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="500.0,604.0 500.0,632.0" fill="none" stroke="#5B7A98" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="500.0,744.0 500.0,780.0" fill="none" stroke="#5B7A98" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="380.0,840.0 230.0,840.0 230.0,940.0" fill="none" stroke="#5B7A98" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="620.0,840.0 770.0,840.0 770.0,940.0" fill="none" stroke="#5B7A98" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="180" y="220" width="640" height="104" fill="#FAFAF7" stroke="#D4DDE6" stroke-width="2"/>
+<text data-max-width="592" x="500.0" y="259" font-size="27" fill="#1B3C5C" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">1  ระบุเป้าหมาย + แหล่งข้อมูล</tspan>
+</text>
+<text data-max-width="592" x="500.0" y="300" font-size="22" fill="#1A1B1D" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">ผู้ใช้ / คำถาม / ไฟล์หรือ API</tspan>
+</text>
+<rect x="180" y="360" width="640" height="104" fill="#FAFAF7" stroke="#D4DDE6" stroke-width="2"/>
+<text data-max-width="592" x="500.0" y="399" font-size="27" fill="#1B3C5C" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">2  อ่านโปรเจกต์และเติมโจทย์</tspan>
+</text>
+<text data-max-width="592" x="500.0" y="440" font-size="22" fill="#1A1B1D" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">ใช้คำตอบเดิม ถามเฉพาะส่วนที่ยังไม่ชัด</tspan>
+</text>
+<rect x="180" y="500" width="640" height="104" fill="#FAFAF7" stroke="#D4DDE6" stroke-width="2"/>
+<text data-max-width="592" x="500.0" y="539" font-size="27" fill="#1B3C5C" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">3  เตรียมเครื่องมือและข้อมูล</tspan>
+</text>
+<text data-max-width="592" x="500.0" y="580" font-size="22" fill="#1A1B1D" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">ใช้ stack เดิม หรือสร้างโปรเจกต์ใหม่</tspan>
+</text>
+<rect x="180" y="640" width="640" height="104" fill="#FAFAF7" stroke="#D4DDE6" stroke-width="2"/>
+<text data-max-width="592" x="500.0" y="679" font-size="27" fill="#1B3C5C" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">4  เปิดโปรเจกต์และตรวจ starter</tspan>
+</text>
+<text data-max-width="592" x="500.0" y="720" font-size="22" fill="#1A1B1D" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">แยกข้อมูลจริง ข้อมูลตัวอย่าง และสิ่งที่ติดขัด</tspan>
+</text>
+<polygon points="500.0,780 620,840.0 500.0,900 380,840.0" fill="#FDE4D0" stroke="#1B3C5C" stroke-width="2"/>
+<text data-max-width="190" x="500.0" y="843" font-size="23" fill="#1B3C5C" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">ขอแค่ setup?</tspan>
+</text>
+<text data-max-width="90" x="240" y="872" font-size="22" fill="#1B3C5C" text-anchor="start" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="240" dy="0">ใช่</tspan>
+</text>
+<text data-max-width="100" x="650" y="872" font-size="22" fill="#1B3C5C" text-anchor="start" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="650" dy="0">สร้างต่อ</tspan>
+</text>
+<rect x="40" y="948" width="380" height="100" fill="#D4DDE6" stroke="#D4DDE6" stroke-width="2"/>
+<text data-max-width="340" x="230.0" y="986" font-size="28" fill="#1B3C5C" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="230.0" dy="0">พร้อมเริ่มพัฒนา</tspan>
+</text>
+<text data-max-width="340" x="230.0" y="1024" font-size="22" fill="#1B3C5C" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="230.0" dy="0">จบงานที่โปรเจกต์ตั้งต้น</tspan>
+</text>
+<rect x="580" y="948" width="380" height="100" fill="#1B3C5C" stroke="#1B3C5C" stroke-width="2"/>
+<text data-max-width="340" x="770.0" y="984" font-size="26" fill="#FAFAF7" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="770.0" dy="0">Spec → Build → Verify</tspan>
+</text>
+<text data-max-width="340" x="770.0" y="1024" font-size="22" fill="#FAFAF7" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="770.0" dy="0">เดินหน้าสร้าง Dashboard</tspan>
+</text>
+<text data-max-width="920" x="500.0" y="1091" font-size="21" fill="#5B7A98" text-anchor="middle" font-family="IBM Plex Sans Thai, Sarabun, Thonburi, Arial, sans-serif">
+<tspan x="500.0" dy="0">ข้อมูลจริงยังไม่พร้อม? ระบุสิ่งที่ติดขัด และติดป้ายข้อมูลตัวอย่างให้ชัด</tspan>
+</text>
+</svg>

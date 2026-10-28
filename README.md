@@ -27,6 +27,10 @@ Repo นี้เก็บ **คำแนะนำสำหรับ agent แ�
 
 ## จากโจทย์สู่ Dashboard
 
+[![ภาพรวม Dashboard Builder: เข้าใจโจทย์ เตรียมโปรเจกต์ นิยาม KPI ลงมือสร้าง และตรวจผล พร้อมผลลัพธ์แต่ละขั้น](docs/assets/flow-overview.png)](docs/assets/flow-overview.svg)
+
+[ขยายภาพ SVG](docs/assets/flow-overview.svg) · [ไฟล์แก้ไข Excalidraw](docs/assets/flow-overview.excalidraw)
+
 **Onboarding → Setup → Specification → Build → Verify**
 
 | ขั้นตอน | Agent ทำอะไร | สิ่งที่ควรเห็นเมื่อจบขั้น |
@@ -131,6 +135,12 @@ Start with onboarding and setup, and clarify any missing metric definitions.
 
 ## Onboarding จะเก็บข้อมูลอะไร
 
+[![ขั้นตอน onboarding และ setup: ระบุเป้าหมาย อ่านโปรเจกต์ เตรียมเครื่องมือ ตรวจ starter แล้วจบเฉพาะ setup หรือสร้าง Dashboard ต่อ](docs/assets/flow-onboarding.png)](docs/assets/flow-onboarding.svg)
+
+[ขยายภาพ SVG](docs/assets/flow-onboarding.svg) · [ไฟล์แก้ไข Excalidraw](docs/assets/flow-onboarding.excalidraw)
+
+ภาพนี้แยกปลายทางของงานตามคำขอ: **setup only** จบที่โปรเจกต์ตั้งต้น ส่วน **สร้าง Dashboard** เดินหน้าสู่ Spec → Build → Verify หากยังมีสิ่งที่ติดขัด ให้รายงานตามผลตรวจจริง
+
 | เรื่อง | ตัวอย่าง |
 |---|---|
 | ผู้ใช้และการตัดสินใจ | ผู้จัดการฝ่ายขายต้องหาสาเหตุที่รายได้ลดลง |
@@ -161,6 +171,8 @@ dashboard-builder/
 ├── README.md
 ├── Read.md
 ├── LICENSE
+├── docs/
+│   └── assets/               # Flow previews and editable Excalidraw scenes
 └── skills/
     └── dashboard-builder/
         ├── SKILL.md
